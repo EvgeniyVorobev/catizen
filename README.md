@@ -2,7 +2,7 @@
 
 Web3 игра [Catizen](https://t.me/catizenbot)
 
-Разработать скрипт для расширения Tampermonkey с использованием языка Javascript, допускается использование любых библиотек.
+Разработать скрипт для расширения [Tampermonkey](https://chromewebstore.google.com/detail/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=ru) с использованием языка Javascript, допускается использование любых библиотек.
 
 Необходимый функционал:
 1. Сбор накопленных денег при запуске игры
