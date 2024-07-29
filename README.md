@@ -1,6 +1,6 @@
 #Разработать Javascript по автоматизации Web3 игры Catizen
 
-Web3 игра [Catizen]('https://t.me/catizenbot')
+Web3 игра [Catizen](https://t.me/catizenbot)
 
 Разработать скрипт для расширения Tampermonkey с использованием языка Javascript, допускается использование любых библиотек.
 
